@@ -1,4 +1,4 @@
-# FizzBuzzPlusPlus
+# FizzBuzz++
 FizzBuzz++ é uma implementação de autoria minha do "Teste de FizzBuzz", feito em C++;
 
 ## O que é
