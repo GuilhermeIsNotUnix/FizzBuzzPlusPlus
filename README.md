@@ -1,5 +1,5 @@
-# FizzBuzz++
-FizzBuzz++ é uma implementação de autoria minha do "Teste de FizzBuzz", feito em C++;
+# FizzBuzzPlusPlus
+FizzBuzzPlusPlus é uma implementação Cross-Plataform (Linux e Windows 32 Bits ou Windows 64 Bits) de autoria minha do "Teste de FizzBuzz", feito em C++;
 
 ## O que é
 
