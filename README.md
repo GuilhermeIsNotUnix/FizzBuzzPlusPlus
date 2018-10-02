@@ -1,7 +1,7 @@
 # FizzBuzzPlusPlus
 ![Screenshot](fizzbuzzplusplus.png)
 
-FizzBuzzPlusPlus é uma implementação Cross-Plataform (Linux e Windows 32 Bits ou Windows 64 Bits) de autoria minha do "Teste de FizzBuzz", feito em C++;
+FizzBuzzPlusPlus é uma implementação Cross-Platform (Linux e Windows 32 Bits ou Windows 64 Bits) de autoria minha do "Teste de FizzBuzz", feito em C++;
 
 ## O que é
 
